@@ -1,0 +1,16 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+}
+.wp{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    gap: 30px;
+    
+}
+.wp a{
+    text-decoration: none;
+
+}
